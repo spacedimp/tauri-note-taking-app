@@ -1,6 +1,6 @@
 ## Simple Note taking app built with Tauri 
 
-This project is the finished code for the tutorial [here](spacedimp.com/blog/using-rust-tauri-and-sveltekit-to-build-an-app/)
+This project is the finished code for the tutorial [here](https://spacedimp.com/blog/using-rust-tauri-and-sveltekit-to-build-an-app/)
 
 ### How to run
 
