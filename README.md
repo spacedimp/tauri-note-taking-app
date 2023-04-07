@@ -4,9 +4,12 @@ This project is the finished code for the tutorial [here](https://spacedimp.com/
 
 ### How to run
 
-Well it's better to follow along with the tutorial at the link
-mentioned above. This is just the finished code as a reference.
+Just follow along with the tutorial in the link above and 
+then run 
 
+````
+> pnpm tauri build
+````
 
 
 
