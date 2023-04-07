@@ -8,7 +8,7 @@ Just follow along with the tutorial in the link above and
 then run 
 
 ````
-> pnpm tauri build
+pnpm tauri build
 ````
 
 
